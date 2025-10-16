@@ -3,3 +3,111 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/* Container principal que ocupa toda a tela*/
+.main-container {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aliceblue;
+    color: blanchedalmond;
+    line-height: 1.6;
+    padding: 40px 20px;
+
+}
+
+/* Estilos para os títuloa e parágrafos de introdução*/
+.main-container > h1 { 
+    text-align: center;
+    color: rgb(16, 16, 97);
+    margin-bottom: 10px;
+}
+
+.main-container > p {
+    text-align: center;
+    max-width: 600px;
+    margin: 0 auto 30px auto;
+}
+
+/* Container do formulário*/
+.input-catalog-form {
+max-width: 900px;
+
+}
+
+/* Seções dentro do formulário*/
+.form-section {
+
+}
+
+/*Grupo de campos (fielset)*/
+.form-group {
+
+}
+
+/* Título do grupo (legend)*/
+.form-group-title {
+
+}
+
+/* Rótulos dos campos (label)*/
+.form-label {
+
+}
+
+/* Estilo padrão para a maioria dos inputs e para o select*/
+.form-input,
+.form-select {
+
+}
+
+/* Estilo para grupo de checkbox e radio*/
+.form-check{
+
+}
+
+.form-check input{
+
+}
+
+/*Reseta a margem da label dentro do form-check*/
+.form-check input{
+
+}
+
+/*Container para os botões dos formulário*/
+.form-controls{
+
+}
+
+/* Estilo base dos botões*/
+.form-button{
+
+}
+
+.form-button:hover {
+
+}
+
+/* Cores específicas para cada tipo de botão*/
+.submit-button{
+
+}
+
+.submit-button:hover{
+
+}
+
+.reset-button{
+
+}
+
+.reset-button.hover{
+
+}
+
+.action-button{
+
+}
+
+.action-button:hover{
+
+}
